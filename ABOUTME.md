@@ -30,6 +30,7 @@
   - Identified high-risk departments and roles to support data-driven HR decision-making
 
   ![Top Paying Data Analyst Jobs](assets/Over%20View.png)
+  [_Feel Free to see the full dashboard in Power BI Service_](https://app.powerbi.com/groups/me/reports/ee2c755a-a01e-4c33-baa4-6c8aeeef520a/21fe873d87d422aac2f0?experience=power-bi)
 
 - **Business & Sales Data Analysis | SQL & Power BI**
 
@@ -37,7 +38,9 @@
   - Identified top customer, revenue trends, and performance insights.
   - Visualized findings using Power BI dashboard for management-level reporting.
 
-  ![Top Paying Data Analyst Jobs](assets/Sales.png)
+![Top Paying Data Analyst Jobs](assets/Sales.png)
+
+[_Feel Free to see the full dashboard in Power BI Service_](https://app.powerbi.com/groups/me/reports/3338abf6-7f5f-42c2-a2da-2704f6c47e06/2c158746ca1beb3bb626?experience=power-bi)
 
 - **SQL Data Analysis Portfolio**
 
